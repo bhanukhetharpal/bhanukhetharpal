@@ -1,5 +1,4 @@
-<h1 align="center">Hey There 👋, I'm Bhanu Khetharpal</h1>
-<h3 align="center">A</h3>
+# Hey There 👋, I'm Bhanu Khetharpal
 
 
 -💡  I like to explore different technologies.
@@ -9,8 +8,7 @@
 -🔭 I’m currently working on a Research Paper about a chatbot using NLP.
 -💬  My primary coding and problem solving language is C++.
 -😄  Pronouns: She/Her
-<p align="left">
-</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanukhetharpal&show_icons=true&locale=en" alt="bhanukhetharpal" /></p>
 
