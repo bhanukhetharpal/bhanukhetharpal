@@ -4,7 +4,7 @@
 - 💡  I like to explore different technologies.
 - 🎓  I'm currently pursuing Bachelors of Technology at Indira Gandhi Delhi Technical University for Women.
 - 🌱  I'm intermediately trained in Flutter Development and  Machine Learning.
-- 🌱  I’m currently learning Nodejs.
+- 🌱  I’m currently improving my React-Redux skills.
 - 💬  My primary coding and problem solving language is C++.
 - 😄  Pronouns: She/Her
 
