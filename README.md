@@ -2,9 +2,9 @@
 
 
 - 💡  I like to explore different technologies.
-- 🎓  I'm currently pursuing Bachelors of Technology at Indira Gandhi Delhi Technical University for Women.
+- 🎓  I have completed Bachelors of Technology in Information Technology from Indira Gandhi Delhi Technical University for Women.
 - 🌱  I'm intermediately trained in Web development(MERN, .NET framework), App development(Flutter), ML and Deep Learning (Computer Vision).
-- 🌱  I’m currently improving my React-Redux skills.
+- 🌱  I’m currently focusing on AI Engineering.
 - 💬  My primary coding and problem solving language is C++.
 - 😄  Pronouns: She/Her
 
